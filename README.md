@@ -10,4 +10,6 @@ Essa base de dados é composta por informações preliminares provenientes do fo
 
 Dados proveniente dos Programas de Gerenciamento de Prevenção administrados pelo CENIPA (Emissão de Raio Laser e Risco Baloeiro) não constam nesta base. Esses programas possuem formulários próprios para coleta de dados com foco exclusivo para gerenciamento do risco, enquanto os dados coletados pelo formulário CENIPA-05 têm foco principal na investigação de acidentes (AIG).
 
+![Modelo de Dados do CENIPA](https://github.com/Anderson-Andre-P/ETL-cenipa/blob/main/modelo_dados_cenipa.png "Modelo de Dados do CENIPA")
+
 Fonte: Dados Gov - Conjunto de dados de ocorrências aeronáuticas
